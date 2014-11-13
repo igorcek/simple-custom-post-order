@@ -332,8 +332,8 @@ class SCPO_Engine {
 							}
 						}
 					} else {
-						$wp_query->set( 'orderby', 'menu_order' );
-						$wp_query->set( 'order', 'ASC' );
+					//	$wp_query->set( 'orderby', 'menu_order' );
+					//	$wp_query->set( 'order', 'ASC' );
 					}
 				}
 			}
